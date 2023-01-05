@@ -1,10 +1,10 @@
 {
-    "sitename":"pai233の小站",
+    "sitename":"Panjoel's Blog",
     "allowlist": [
-        "pai233.top"
+        "panjoel.tk"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https://www.panjoel.tk/",
+        "sitename": "Panjoel's Blog"
     }
 }
